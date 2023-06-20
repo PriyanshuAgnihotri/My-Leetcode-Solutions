@@ -1,15 +1,15 @@
 class Solution {
 public:
     int minOperations(int n) {
-        vector<int>nums(n);
-        for(int i=0;i<n;i++){
-            nums[i] = (2 * i) + 1;
+        int ans = 0;
+        if (n%2 == 0) {
+            n = n/2;
+            ans = (n * (2 + (n-1) * 2))/ 2;
         }
-        int ans=0;
-        for(int i=0;i<n/2;i++){
-            int diff=nums[n-i-1]-nums[i];
-            ans+=diff/2;
+        else {
+            n = n/2 ;
+            ans = (n * (2 * 2 + (n-1) * 2)) / 2;;
         }
-        return ans;   
+        return ans; 
     }
 };
