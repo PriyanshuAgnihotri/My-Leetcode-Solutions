@@ -1,11 +1,12 @@
 class Solution {
 public:
     vector<int> findArray(vector<int>& pref) {
-       int sum=0;
-        for(int i=0; i<pref.size();i++){
-            pref[i]^=sum;
-            sum ^= pref[i];
+        int n=pref.size();
+        int prev=0;
+        for(int i=1; i<n; i++){
+            prev^=pref[i-1];
+            pref[i]=prev^pref[i];
         }
-        return pref; 
+        return pref;
     }
 };
