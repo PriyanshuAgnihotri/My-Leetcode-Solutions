@@ -2,10 +2,15 @@ class Solution {
 public:
     int minPairSum(vector<int>& nums) {
           sort(nums.begin(),nums.end());
-        int i=0,j=nums.size()-1, ans=0;
+        int i=0;
+        int j=nums.size()-1;
+        int ans=0;
         while(i<j)
         {
-            ans =max(ans , nums[i++]+ nums[j--]);
+            int d=nums[i]+nums[j];
+            ans=max(ans,d);
+            i++;
+            j--;
         }
         return ans;
     }
