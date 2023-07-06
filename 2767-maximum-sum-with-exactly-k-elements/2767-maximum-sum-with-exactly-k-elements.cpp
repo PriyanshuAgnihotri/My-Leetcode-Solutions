@@ -1,8 +1,13 @@
 class Solution {
 public:
     int maximizeSum(vector<int>& nums, int k) {
-       int ans = 0;
-        for(auto &i: nums)ans = max(ans,i);
-        return ans*k+(k*(k-1))/2; 
+       sort(nums.begin(), nums.end());
+        int sum = 0;
+        int n = nums.size()-1;
+        while(k--){
+            sum+=nums[n];
+            nums[n]++;
+        }
+        return sum; 
     }
 };
