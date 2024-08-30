@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Math
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
