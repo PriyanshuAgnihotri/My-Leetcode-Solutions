@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0539-minimum-time-difference](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0539-minimum-time-difference](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
