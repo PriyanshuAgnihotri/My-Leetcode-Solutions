@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2155-find-missing-observations) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Union Find
 |  |
 | ------- |
@@ -162,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
