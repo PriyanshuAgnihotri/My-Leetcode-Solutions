@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0088-merge-sorted-array](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0539-minimum-time-difference](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0539-minimum-time-difference](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
