@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0539-minimum-time-difference](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
