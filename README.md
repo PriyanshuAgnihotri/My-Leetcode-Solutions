@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0620-not-boring-movies](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [1292-immediate-food-delivery-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1292-immediate-food-delivery-ii) |
+| [1390-average-selling-price](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1390-average-selling-price) |
 ## Array
 |  |
 | ------- |
