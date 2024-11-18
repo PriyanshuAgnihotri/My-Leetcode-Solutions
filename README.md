@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1755-defuse-the-bomb](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2155-find-missing-observations) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1755-defuse-the-bomb](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
