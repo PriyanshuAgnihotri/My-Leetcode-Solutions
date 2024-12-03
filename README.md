@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2232-adding-spaces-to-a-string](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
