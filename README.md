@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3427-special-array-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3427-special-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3427-special-array-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3427-special-array-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3427-special-array-ii) |
 ## Simulation
 |  |
 | ------- |
