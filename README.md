@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
