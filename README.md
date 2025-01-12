@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Tree
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
