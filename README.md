@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1755-defuse-the-bomb](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2145-grid-game](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2155-find-missing-observations) |
