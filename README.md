@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1396-count-servers-that-communicate](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Trie
 |  |
