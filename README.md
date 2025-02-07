@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3427-special-array-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuAgnihotri/My-Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
